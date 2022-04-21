@@ -1,0 +1,2 @@
+From public.ecr.aws/j1r0q0g6/training/training-operator:174e8813666951ded505daf334a37f60fd50c18d
+Maintainer wangzhiyuan602@163.com
